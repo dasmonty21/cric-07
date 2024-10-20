@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.c7e4ad4e.css",
-    "main.js": "/static/js/main.9e20638e.js",
+    "main.js": "/static/js/main.37fe4a70.js",
     "static/js/24.9ad0769e.chunk.js": "/static/js/24.9ad0769e.chunk.js",
     "static/css/189.c85d8299.chunk.css": "/static/css/189.c85d8299.chunk.css",
     "static/js/189.3c5d2f06.chunk.js": "/static/js/189.3c5d2f06.chunk.js",
@@ -20,10 +20,10 @@
     "static/js/140.e6938a0d.chunk.js": "/static/js/140.e6938a0d.chunk.js",
     "static/media/01.jpg": "/static/media/01.d30f38ee18606c58cfde.jpg",
     "static/media/03.jpg": "/static/media/03.be9bfde84a0a397b8f7c.jpg",
-    "static/media/img2.png": "/static/media/img2.7fab569afbe449fd1046.png",
     "static/media/user.png": "/static/media/user.a5c24708e0b1812fdbc5.png",
     "static/media/order.png": "/static/media/order.28e2ce4089a5c5325a47.png",
     "static/media/products.png": "/static/media/products.e0f41533dcc4e92ed743.png",
+    "static/media/img2.png": "/static/media/img2.5820d72a7576f7049e9a.png",
     "static/media/tc.jpg": "/static/media/tc.1a48b3cc759c1dd6d3bf.jpg",
     "static/media/04.jpg": "/static/media/04.9ed8e5c977172374a127.jpg",
     "static/media/LoaderBlack.svg": "/static/media/LoaderBlack.9d15429ed1af3e44cfe1de813ca08b76.svg",
@@ -39,7 +39,7 @@
     "static/media/mastercard.svg": "/static/media/mastercard.7d056af02786552977cff392eb03b1a2.svg",
     "static/media/fr.svg": "/static/media/fr.2b73cc5a99eb2870654bf372ef9437d4.svg",
     "main.c7e4ad4e.css.map": "/static/css/main.c7e4ad4e.css.map",
-    "main.9e20638e.js.map": "/static/js/main.9e20638e.js.map",
+    "main.37fe4a70.js.map": "/static/js/main.37fe4a70.js.map",
     "24.9ad0769e.chunk.js.map": "/static/js/24.9ad0769e.chunk.js.map",
     "189.c85d8299.chunk.css.map": "/static/css/189.c85d8299.chunk.css.map",
     "189.3c5d2f06.chunk.js.map": "/static/js/189.3c5d2f06.chunk.js.map",
@@ -59,6 +59,6 @@
   },
   "entrypoints": [
     "static/css/main.c7e4ad4e.css",
-    "static/js/main.9e20638e.js"
+    "static/js/main.37fe4a70.js"
   ]
 }
