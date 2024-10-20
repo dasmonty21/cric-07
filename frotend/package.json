@@ -61,7 +61,7 @@
       "last 1 safari version"
     ]
   },
-  "proxy": "https://cric-abhi.vercel.app:5000",
+  "proxy": "https://cric-07.vercel.app:5000",
   "devDependencies": {
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
     "eslint-config-react-app": "^7.0.1"
